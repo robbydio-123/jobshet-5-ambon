@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class tugasnomer2 {
+public class tugasnomer2absen23 {
     public static void main(String[] args) {
         
         int angka;

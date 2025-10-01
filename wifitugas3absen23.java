@@ -1,19 +1,17 @@
 import java.util.Scanner;
 
-public class wifitugas {
+public class wifitugas3absen23 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("--- Sistem Cek Akses WiFi ---");
-        
-        
+           
         System.out.print("Masukkan jenis pengguna (dosen/mahasiswa/lainnya): ");
         String jenisPengguna = scanner.nextLine();
-
-        
+       
         if (jenisPengguna.equals("dosen")) { 
             System.out.println("Akses WiFi diberikan (dosen)");
-            
+
         } else if (jenisPengguna.equals("mahasiswa")) {
             
             System.out.print("Masukkan jumlah SKS saat ini: ");

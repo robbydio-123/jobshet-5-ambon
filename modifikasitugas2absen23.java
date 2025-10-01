@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ifelsecetakKRS23
+public class modifikasitugas2absen23
  {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
